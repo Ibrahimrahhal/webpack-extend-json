@@ -1,6 +1,6 @@
 {
   "name": "webpack-extend-json",
-  "version": "1.0.0-beta.10",
+  "version": "1.0.0-beta.11",
   "description": "Webpack loader that gives the ability to extend JSON files",
   "main": "dist/src/index.js",
   "scripts": {
@@ -14,7 +14,14 @@
   },
   "keywords": [
     "webpack",
-    "webpack-loader"
+    "webpack-loader",
+    "json",
+    "extend",
+    "extend-json",
+    "json file",
+    "json loader",
+    "webpack json"
+
   ],
   "author": "Ibrahim Rahhal <ibrahim.rahhal3636@gmail.com>",
   "license": "MIT",
